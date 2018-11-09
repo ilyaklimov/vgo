@@ -1,5 +1,7 @@
 package basic
 
-func T() string {
-	return "Hello, world!!!"
+import "fmt"
+
+func T(name string) string {
+	fmt.Printf("Hello, %s", name)
 }
