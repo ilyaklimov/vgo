@@ -1,1 +1,1 @@
-module github.com/ilyaklimov/vgo/2
+module github.com/ilyaklimov/vgo/v2
